@@ -1,1 +1,1 @@
-int _putchar(str[count]);
+int _putchar(char c);
